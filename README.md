@@ -10,7 +10,12 @@ you are doing (unless you're saving someone's life) and read it now.  Things wil
 It is a script for _whys bloopsaphone, which I had heard about but never used before.  
 You can get it by copy and pasting the same instructions I did, found here (thanks for posting them!).
 
-http://deaddeadgood.com/2010/2/13/installing-_why-s-bloopsaphone-on-os-x/ 
+[http://deaddeadgood.com/2010/2/13/installing-_why-s-bloopsaphone-on-os-x/](http://deaddeadgood.com/2010/2/13/installing-_why-s-bloopsaphone-on-os-x/)
+
+code reproduced below in case that site goes away
+    sudo port install portaudio
+    sudo gem install bloopsaphone -- --with-opt-lib=/opt/local/lib --with-opt-include=/opt/local/include
+
 
 If you want to know how to use the bloopsaphone I suggest you navigate to the directory where the gem is installed and 
 look at what _why wrote about it, there isn't a whole lot to it.
@@ -29,9 +34,9 @@ look at what _why wrote about it, there isn't a whole lot to it.
     master>
 
 
-Or you can look at what I've done with it, or maybe just listen to what I've done with it, and reflect a bit.  
+Or you can look at what I've done with it, or maybe just listen to what I've done with it, and have a nice pensive glass of scotch.  
 
-Feel free to borrow or steal any part of what I've done, and if you do let me know about it.  
+Feel free to borrow or steal any part of what I've done, if you do let me know about it.  
 
 
 
