@@ -4,8 +4,8 @@
 On the last day they announced whyday [http://whyday.org/](http://whyday.org/) and I love _why, him and his chunky bacon being 
 in large part responsible for why I got into Ruby and Rails in the first place.  
 
-If you have never read his poignant guide to ruby [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) then you should stop whatever
-you are doing (unless you're saving someone's life) and read it now.  Things will wait.  
+If you have never read his poignant guide to ruby [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) 
+then you should stop whatever you are doing and read it now.  Things will wait.  
 
 
 It is a script for _whys bloopsaphone, which I had heard about but never used before.  
