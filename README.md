@@ -1,4 +1,4 @@
-## This is a little something I put together on the train back from Railsconf in Baltimore to my home in Richmond, VA
+## This is a little something I put together on the train back from Railsconf in Baltimore to my home in Richmond, VA.
 
 On the last day they announced whyday ( http://whyday.org/ ) and I love _why, him and his chunky bacon being 
 in large part responsible for why I got into Ruby and Rails in the first place.  
@@ -15,19 +15,19 @@ http://deaddeadgood.com/2010/2/13/installing-_why-s-bloopsaphone-on-os-x/
 If you want to know how to use the bloopsaphone I suggest you navigate to the directory where the gem is installed and 
 look at what _why wrote about it, there isn't a whole lot to it.
 
-`
-master>gem list blo -d   
 
-*** LOCAL GEMS ***
+    master>gem list blo -d   
 
-bloopsaphone (0.4)
-    Author: why the lucky stiff
-    Homepage: http://github.com/why/bloopsaphone
-    Installed at: /Library/Ruby/Gems/1.8
+    *** LOCAL GEMS ***
 
-    arcade sounds and chiptunes
-master>
-`
+    bloopsaphone (0.4)
+        Author: why the lucky stiff
+        Homepage: http://github.com/why/bloopsaphone
+        Installed at: /Library/Ruby/Gems/1.8
+
+        arcade sounds and chiptunes
+    master>
+
 
 Or you can look at what I've done with it, or maybe just listen to what I've done with it, and reflect a bit.  
 
@@ -40,6 +40,8 @@ Feel free to borrow or steal any part of what I've done, and if you do let me kn
 
 
 
-p.s.  _why if you read this, send me a postcard.  
+##### p.s.  _why if you read this, send me a postcard.  6526 Stuart Ave, Richmond VA 23226
+###### (I'll send you one back with an additional stamp on it to make up for the postage.)
+
 
 
