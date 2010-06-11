@@ -1,5 +1,6 @@
 ## This is a little something I put together on the train back from Railsconf in Baltimore to my home in Richmond, VA.
 
+
 On the last day they announced whyday [http://whyday.org/](http://whyday.org/) and I love _why, him and his chunky bacon being 
 in large part responsible for why I got into Ruby and Rails in the first place.  
 
