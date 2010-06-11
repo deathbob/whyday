@@ -1,9 +1,9 @@
 ## This is a little something I put together on the train back from Railsconf in Baltimore to my home in Richmond, VA.
 
-On the last day they announced whyday ( http://whyday.org/ ) and I love _why, him and his chunky bacon being 
+On the last day they announced whyday [http://whyday.org/](http://whyday.org/) and I love _why, him and his chunky bacon being 
 in large part responsible for why I got into Ruby and Rails in the first place.  
 
-If you have never read his poignant guide to ruby ( http://mislav.uniqpath.com/poignant-guide/ ) then you should stop whatever
+If you have never read his poignant guide to ruby [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) then you should stop whatever
 you are doing (unless you're saving someone's life) and read it now.  Things will wait.  
 
 
